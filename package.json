@@ -1,0 +1,18 @@
+{
+  "name": "playground-elements-reproducible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "playground-elements": "^0.14.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
